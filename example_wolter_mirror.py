@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-__author__ = "Konstantin Klementiev", "Roman Chernikov"
+__author__ = "Zengguang Tang"
 __date__ = "2024-06-28"
 
 Created with xrtQook
